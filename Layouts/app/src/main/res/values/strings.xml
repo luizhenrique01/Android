@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="primeiro">Primeiro</string>
+    <string name="segundo">Segundo</string>
+    <string name="terceiro_bot_o">Terceiro botão</string>
+    <string name="quarto_bot_o">Quarto botão</string>
+    <string name="segundo_botao">Segundo botão</string>
+    <string name="subtitulo">Subtitulo</string>
+    <string name="titulo">Titulo</string>
+    <string name="layouts">Layouts</string>
+    <string name="de_peso">de peso</string>
+    <string name="exemplo">Exemplo</string>
+    <string name="um">Um</string>
+    <string name="button">Button</string>
+</resources>

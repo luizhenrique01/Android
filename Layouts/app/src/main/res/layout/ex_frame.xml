@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sapo"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sapo sapo sapo sapo sapo"
+        android:padding="10dp"
+        android:background="#000"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="bottom"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|top"
+        android:src="@drawable/ic_launcher_foreground"/>
+</FrameLayout>
+        <!--O FrameLayout é o gerenciador de layout mais simples, e normalmente é usado
+        para colocar um único elemento dentro dele. Porém, ao adicionar mais
+        componentes, eles ficarão sobrepostos, ou seja, o primeiro elemento ficará
+        mais atrás e os próximos ficarão à frente do anterior, criando assim um visual
+        de camadas-->
